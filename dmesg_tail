@@ -1,0 +1,10 @@
+[   36.706087] vboxdrv: Found 2 processor cores
+[   36.726027] vboxdrv: TSC mode is Invariant, tentative frequency 1599949147 Hz
+[   36.726032] vboxdrv: Successfully loaded version 5.0.18_Ubuntu (interface 0x00240000)
+[   36.766493] VBoxNetFlt: Successfully started.
+[   36.800046] VBoxNetAdp: Successfully started.
+[   36.818594] VBoxPciLinuxInit
+[   36.839484] vboxpci: IOMMU not found (not registered)
+[   39.277925] Bluetooth: RFCOMM TTY layer initialized
+[   39.277944] Bluetooth: RFCOMM socket layer initialized
+[   39.277957] Bluetooth: RFCOMM ver 1.11
